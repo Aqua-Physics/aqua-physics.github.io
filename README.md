@@ -4,7 +4,7 @@ Aqua Physics Lab is an online physics simulation that uses Box2D
 
 ## Editing Code
 
-Editing Aqua Physics Lab is very simple, first down load the .sb3 file [here.](https://github.com/Aqua-Physics/physics-lab-sb3-file)
+Editing Aqua Physics Lab is very simple, first download the .sb3 file [here.](https://github.com/Aqua-Physics/physics-lab-sb3-file)
  Then go to [Turbowarp.org](https://turbowarp.org/) and load the .sb3 file.
 
 ## Keybinds
