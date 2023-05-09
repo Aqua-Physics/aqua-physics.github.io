@@ -22,10 +22,11 @@ Editing Aqua Physics Lab is very simple, first download the .sb3 file [here.](ht
 - Press r to delete everything
 - Press 6 to spawn a star
 - Press 7 to spawn a shooting star
-- Press 8 to spawn a slow car
-- Press 9 to spawn a fast car
+- Press 8 to spawn a slow car (press q for a flipped slow car)
+- Press 9 to spawn a fast car (press e for a flipped fast car)
 - Press 0 to spawn a stickman
 - Press p to spawn a rectangle
+- While hovering over an object press backspace or delete on your keyboard to delete an individual object.
 
 ## Contributing
 
