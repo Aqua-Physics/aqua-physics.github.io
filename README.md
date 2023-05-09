@@ -1,7 +1,7 @@
 # Aqua Physics Lab
 
 Aqua Physics Lab is an online physics simulation that uses Box2D
-![](https://github.com/aqua-physics.github.io/video.gif)
+![]([https://github.com/aqua-physics.github.io/video.gif](https://github.com/Aqua-Physics/aqua-physics.github.io/blob/main/video.gif))
 
 ## Editing Code
 
