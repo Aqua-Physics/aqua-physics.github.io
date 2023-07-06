@@ -7,8 +7,8 @@ Aqua Physics Lab is an online physics simulation that uses Box2D
 
 ## Editing Code
 
-Editing Aqua Physics Lab is very simple, first download the .sb3 file [here.](https://github.com/Aqua-Physics/physics-lab-sb3-file)
- Then go to [Turbowarp.org](https://turbowarp.org/) and load the .sb3 file.
+Editing Aqua Physics Lab is very simple, first download the .pmp file [here.](https://github.com/Aqua-Physics/physics-lab-sb3-file)
+ Then go to [PenguinMod](https://studio.penguinmod.site/) and load the .pmp file.
 
 ## Keybinds
 - Press space to change the object you are using
@@ -17,7 +17,10 @@ Editing Aqua Physics Lab is very simple, first download the .sb3 file [here.](ht
 - Press r to delete everything
 - While hovering over an object press backspace or delete on your keyboard to delete an individual object.
 
-## Contributing
+## Itch.io Version
+You can try the itch.io version [here.](https://mr-rudy.itch.io/aqua-physics)
+
+### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
